@@ -1,0 +1,15 @@
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\bin\Debug\UpdateSoftware.exe.config
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\bin\Debug\UpdateSoftware.exe
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\bin\Debug\UpdateSoftware.pdb
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\obj\Debug\UpdateSoftware.csprojResolveAssemblyReference.cache
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\obj\Debug\UpdateSoftware.MainForm.resources
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\obj\Debug\UpdateSoftware.Properties.Resources.resources
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\obj\Debug\UpdateSoftware.csproj.GenerateResource.Cache
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\obj\Debug\UpdateSoftware.csproj.CoreCompileInputs.cache
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\obj\Debug\UpdateSoftware.exe
+c:\users\yide.chen\documents\visual studio 2017\Projects\UpdateSoftware\UpdateSoftware\obj\Debug\UpdateSoftware.pdb
+C:\Users\YiDe.Chen\Documents\Visual Studio 2017\Projects\UpdateSoftware\UpdateSoftware\bin\Debug\Command.dll
+C:\Users\YiDe.Chen\Documents\Visual Studio 2017\Projects\UpdateSoftware\UpdateSoftware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YiDe.Chen\Documents\Visual Studio 2017\Projects\UpdateSoftware\UpdateSoftware\bin\Debug\Command.pdb
+C:\Users\YiDe.Chen\Documents\Visual Studio 2017\Projects\UpdateSoftware\UpdateSoftware\obj\Debug\UpdateSoftware.UpdateDetailForm.resources
+C:\Users\YiDe.Chen\Documents\Visual Studio 2017\Projects\UpdateSoftware\UpdateSoftware\bin\Debug\Newtonsoft.Json.xml

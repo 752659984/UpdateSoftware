@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <CheckVersionUrl>http://localhost:61806/Pixiv/Version?v=1.0</CheckVersionUrl>
+  <UpdateUrl>http://localhost:61806/Pixiv/GetUpdateFile</UpdateUrl>
+  <WebUrl>http://localhost:61806/</WebUrl>
+  <UpdateFileName>Update.exe</UpdateFileName>
+  <MainProcess>UpdateSoftware</MainProcess>
+</Config>
